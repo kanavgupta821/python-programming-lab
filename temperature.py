@@ -9,4 +9,4 @@ if 'y'==dec:                                      #if-else statement
  print(f)
 else:
  c=5*temp/9 -32
-print(c)
+ print(c)
