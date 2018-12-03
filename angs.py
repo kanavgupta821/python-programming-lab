@@ -15,4 +15,4 @@ def angs(x):
   print("is a angstrom number")
  else:
   print("is not an angstrom number")
-
+angs(x)
